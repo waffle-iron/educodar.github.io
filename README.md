@@ -1,4 +1,5 @@
 [![Stories in Ready](https://badge.waffle.io/educodar/educodar.github.io.png?label=ready&title=Ready)](https://waffle.io/educodar/educodar.github.io)
+[![Stories in Ready](https://badge.waffle.io/educodar/educodar.github.io.png?label=ready&title=Ready)](https://waffle.io/educodar/educodar.github.io)
 ## Instruções para rodar a aplicação na sua máquina:
 
 Você precisa ter o jekyll instalado
